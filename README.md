@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonu Mondal</h1>
 <h3 align="center">A passionate Java & Spring Boot Backend Developer from India</h3>
-<img align="right" alt="coding" width="450" margin="20" src="https://miro.medium.com/v2/resize:fit:1358/1*lhOax3cZATGZwEhG0uTYRA.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonu-mondal" alt="sonu-mondal" /></a> </p>
+<img align="right" alt="coding" height="300" width="550" margin="20" src="https://miro.medium.com/v2/resize:fit:1358/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
 - 🔭 I’m currently working on **Backend project using Spring Boot**
 
@@ -24,3 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu-mondal&show_icons=true&locale=en&layout=compact" alt="sonu-mondal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu-mondal&show_icons=true&locale=en" alt="sonu-mondal" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonu-mondal" alt="sonu-mondal" /></a> </p>
