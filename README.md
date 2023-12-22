@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonu Mondal</h1>
 <h3 align="center">A passionate Java & Spring Boot Backend Developer from India</h3>
-<img align="right" alt="coding" height="300" width="550" margin="20" src="https://miro.medium.com/v2/resize:fit:1358/1*lhOax3cZATGZwEhG0uTYRA.gif">
+<img align="right" alt="coding" height="300" width="450" margin="20" src="https://miro.medium.com/v2/resize:fit:1358/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
 - 🔭 I’m currently working on **Backend project using Spring Boot**
 
