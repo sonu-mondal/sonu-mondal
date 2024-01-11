@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu-mondal&show_icons=true&locale=en" alt="sonu-mondal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-mondal&" alt="sonu-mondal" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu-mondal&label=Profile%20views&color=68fa18&style=flat"  alt="sonu-mondal" width="150" height="30"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonu-mondal" alt="sonu-mondal" /></a> </p>
